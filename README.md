@@ -24,6 +24,13 @@ Each folder is an icon on your desktop that shows small previews of the apps and
 - **Tray icon.** A small background part sits in the system tray. It keeps folders in sync with their storage and offers *New folder*, *Start with Windows* and *Exit*.
 - **Proper uninstall.** DeskFolders appears in *Settings → Apps*. Uninstalling puts everything from your folders back on the desktop.
 
+<img width="1323" height="791" alt="screenshot 1" src="https://github.com/user-attachments/assets/f7119d66-87b2-45b1-aec3-def2ce15f6d3" />
+
+<img width="732" height="559" alt="screen shoot 2" src="https://github.com/user-attachments/assets/97665cde-83d0-4038-94e6-03b6fb0d1742" />
+
+<img width="902" height="603" alt="3" src="https://github.com/user-attachments/assets/03bbaa2e-ac85-4ae2-b79a-b759bc711424" />
+
+
 ## Where your files go
 
 When you add an item from the desktop, it is moved into a storage folder: by default `Documents\DeskFolders\<folder name>`. The original on the desktop goes to the Recycle Bin.
