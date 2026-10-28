@@ -4,7 +4,7 @@ A quality of life feature for Windows that allows you to make phone-like folders
 
 Each folder is an icon on your desktop that shows small previews of the apps and files inside it. Double-click it and the folder grows from its icon to the centre of the screen, showing its contents in a grid with pages.
 
-<img width="479" height="476" alt="99cdb96ef5fdca7f47728d6481d6e0d4" src="https://github.com/user-attachments/assets/41e50e76-ca42-4648-8b33-06c1fff79857" />
+<img width="256" height="256" alt="DeskFolders-7" src="https://github.com/user-attachments/assets/1e67d53b-ec4f-4156-b653-693cd30bcda1" />
 
 ## Features
 
